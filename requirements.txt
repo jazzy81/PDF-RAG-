@@ -9,3 +9,11 @@ unstructured[all-docs]
 fastembed
 sentence-transformers
 elevenlabs
+ollama 
+llama3.2
+langchain community 
+embedding model
+tesseract
+poppler
+nltk.download('punkt')
+nltk.download("averaged_perceptron_tagger")   
